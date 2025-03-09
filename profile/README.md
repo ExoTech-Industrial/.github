@@ -23,7 +23,7 @@ This GitHub organization hosts various tools, utilities, and projects developed 
 ### For EXTI Members
 
 If you're already part of ExoTech Industrial:
-1. Request access to this organization by contacting a director in-game or on Discord
+1. Request access to this organization by contacting an Officer in-game or on Discord
 2. Provide your GitHub username to be added as a member
 3. Check the pinned repositories for beginner-friendly issues and contribution guidelines
 
