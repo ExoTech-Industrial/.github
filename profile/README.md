@@ -41,7 +41,7 @@ Interested in joining EXTI?
 
 ## Connect With Us
 
-- **Discord**: [EVE Frontier Guild](https://discord.gg/ngx8jq5wYa)
+- **Discord**: [ExoTech Industrial Discord Server](https://discord.gg/ngx8jq5wYa)
 - **In-Game Channel**: EXTI
 
 ---
